@@ -28,7 +28,7 @@ const SlideFromRightIOS = {
   transitionSpec: IOSTransitionSpec,
   screenInterpolator: StyleInterpolator.forHorizontal,
   containerStyle: {
-    backgroundColor: '#eee',
+    backgroundColor: 'transparent',
   },
 };
 
