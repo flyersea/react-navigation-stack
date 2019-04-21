@@ -37,7 +37,7 @@ const ModalSlideFromBottomIOS = {
   transitionSpec: IOSTransitionSpec,
   screenInterpolator: StyleInterpolator.forVertical,
   containerStyle: {
-    backgroundColor: '#eee',
+    backgroundColor: 'transparent',
   },
 };
 
